@@ -1,0 +1,16 @@
+body {
+    background-image: url(./Bilder/40243237_451629318578895_6115660557623230464_n.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(53, 223, 90);
+}
+
+h1 {
+    color: rgb(223, 227, 177);
+}
+
+h2{color: mediumpurple;}
+
+li {
+    color: rgb(152, 189, 221);
+}
